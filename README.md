@@ -1,4 +1,4 @@
-# jgpu2022
+# X Jornadas De Divulgación De Aplicaciones Científicas Y Visión Por Computador Sobre Procesadores Gráficos
 
 Bienvenidos al repositorio de las jornadas del mes cultural de la UA dedicadas a la programación de GPUs con CUDA.
 
