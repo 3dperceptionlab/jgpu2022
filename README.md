@@ -10,7 +10,7 @@ Esta jornada aspira a convertirse en un foro de encuentro de nuestros científic
 
 Las jornadas tendrán lugar el **viernes 4 de febrero de 2022**:
 * De 11:30h a 13h: Charla en el Salón de Actos de la EPS I de la Universidad de Alicante
-* De 13h a 15h: Taller práctico en el laboratorio L17 de la EPS I.
+* De 13h a 15h: Taller práctico en el laboratorio L17 de la EPS I. [Práctica: Suma de Vectores](https://colab.research.google.com/drive/1wC4yLHoU37j0tdgvzGGeK8k0THr5EFQr)
 
 Los interesados en asistir, por favor **mandad un correo con el asunto "Asistencia JGPU 2022" a 3dplab@gcloud.ua.es**, comunicando vuestra intención de participar en las jornadas. Se entregará un certificado de asistencia a las jornadas a los participantes.
 ¡Nos vemos allí!
